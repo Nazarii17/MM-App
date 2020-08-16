@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mmApp"
+    }
+  },
+  "defaultProject": "mmApp",
+  "cli": {
+    "analytics": "893b081c-5111-44c7-9d5c-eafba4a5af49"
+  }
 }
